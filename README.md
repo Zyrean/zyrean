@@ -1,6 +1,14 @@
 # 🙋‍♂️ Hey there! I'm Stephan
 
-A full-stack developer based in Freiburg im Breisgau (Germany), specializing in modern websites, clean user interfaces, and interactive prototypes. I enjoy turning ideas into sleek, responsive digital experiences using the latest web technologies.
+I build modern websites and digital experiences for small businesses using Next.js, TypeScript and Tailwind CSS.
+
+Focus:
+• Business Websites
+• Landing Pages
+• SEO Optimization
+• Performance & Accessibility
+
+Freiburg, Germany
 
 <br/>
 
@@ -8,11 +16,9 @@ A full-stack developer based in Freiburg im Breisgau (Germany), specializing in 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <br/>
